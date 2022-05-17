@@ -13,12 +13,14 @@ sequences have become increasingly available. This report is concerned with faci
 ## Data
 ### BAUM1-s Video Data
 <img src="https://github.com/anerip98/spontaneous-facial-expression-recognition/blob/main/images/baum1s.png" width=800>
+
 ### 3-D Point Clouds
+
 <img src="https://github.com/anerip98/spontaneous-facial-expression-recognition/blob/main/images/voxel.png" width=800>
 
 ## Results - Confusion Matrices
 
-### Video Data
+### BAUM1-s Video Data
 
 <img src="https://github.com/anerip98/spontaneous-facial-expression-recognition/blob/main/images/video_conf.png" width=600>
 

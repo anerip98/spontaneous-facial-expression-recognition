@@ -10,6 +10,21 @@ sequences have become increasingly available. This report is concerned with faci
 1) Videos 
 2) 3-D point clouds, using 3-D convolutional neural networks (3-D CNN).
 
+## Data
+### BAUM1-s Video Data
+<img src="https://github.com/anerip98/spontaneous-facial-expression-recognition/blob/main/images/baum1s.png" width=800>
+### 3-D Point Clouds
+<img src="https://github.com/anerip98/spontaneous-facial-expression-recognition/blob/main/images/voxel.png" width=800>
+
+## Results - Confusion Matrices
+
+### Video Data
+
+<img src="https://github.com/anerip98/spontaneous-facial-expression-recognition/blob/main/images/video_conf.png" width=600>
+
+### 3-D Point Clouds
+<img src="https://github.com/anerip98/spontaneous-facial-expression-recognition/blob/main/images/point_cloud_conf.png" width=600>
+
 ## Conclusions
 
 Experimental results on the BAUM-1s database show that FER under unconstrained situations is quite challenging.

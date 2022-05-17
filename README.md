@@ -7,7 +7,8 @@ FER is solved using computer vision and artificial intelligence (AI). 2-D based 
 due to self-occlusion and pose variation. Thus, they are not satisfactory for real-world applications. 3-D data based 
 solutions solve the problems that arise with 2-D data. In recent times, 3-D facial data, both 3-D point clouds and video 
 sequences have become increasingly available. This report is concerned with facial expression recognition for two types of data: 
-1) Videos 2) 3-D point clouds, using 3-D convolutional neural networks (3-D CNN).
+1) Videos 
+2) 3-D point clouds, using 3-D convolutional neural networks (3-D CNN).
 
 ## Conclusions
 
